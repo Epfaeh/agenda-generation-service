@@ -74,6 +74,9 @@ importers:
       winston-daily-rotate-file:
         specifier: ^4.7.1
         version: 4.7.1(winston@3.15.0)
+      zod:
+        specifier: ^3.23.8
+        version: 3.23.8
     devDependencies:
       '@swc/cli':
         specifier: ^0.1.57

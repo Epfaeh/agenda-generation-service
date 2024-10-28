@@ -3,6 +3,7 @@ import { Routes } from '@interfaces/routes.interface';
 import { Router } from 'express';
 
 export class AgendaRoute implements Routes {
+  public path = '/agenda';
   public router = Router();
 
   public agenda = new AgendaController();
@@ -12,6 +13,6 @@ export class AgendaRoute implements Routes {
   }
 
   private initializeRoutes() {
-    this.router.post('/suggest-agenda', this.agenda.suggestAgenda);
+    this.router.post(`${this.path}/suggest`, this.agenda.suggestAgenda);
   }
 }

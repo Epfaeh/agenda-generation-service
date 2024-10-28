@@ -1,0 +1,82 @@
+{
+  "meetingNotes": [
+    {
+      "id": 1,
+      "notes": "Reviewed progress on quarterly goals and identified bottlenecks in current tasks. Employee raised concerns about resource constraints for the upcoming launch.",
+      "actionPoints": [
+        {
+          "description": "Coordinate with resource manager to secure additional team members for the launch phase",
+          "completed": false
+        },
+        {
+          "description": "Prepare a status update for senior management on current bottlenecks",
+          "completed": false
+        }
+      ],
+      "goals": [
+        {
+          "title": "Project milestone completion",
+          "description": "Complete key project milestones for the launch phase by the end of the month",
+          "achievedPercent": 70
+        },
+        {
+          "title": "Improve delegation skills",
+          "description": "Delegate specific tasks to junior team members to balance workload",
+          "achievedPercent": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "notes": "Discussed employee's interest in career growth opportunities, including the desire to lead a cross-functional project in the next quarter.",
+      "actionPoints": [
+        {
+          "description": "Identify an upcoming project suitable for cross-functional leadership experience",
+          "completed": false
+        },
+        {
+          "description": "Arrange a meeting with the mentorship program coordinator",
+          "completed": false
+        }
+      ],
+      "goals": [
+        {
+          "title": "Develop project management skills",
+          "description": "Participate in project management workshops",
+          "achievedPercent": 30
+        },
+        {
+          "title": "Expand cross-functional collaboration",
+          "description": "Build relationships with teams in other departments",
+          "achievedPercent": 40
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "notes": "Reviewed feedback from recent client meetings. Employee acknowledged need to improve on delivering concise updates and action items during meetings.",
+      "actionPoints": [
+        {
+          "description": "Complete a communication skills training program focused on concise delivery",
+          "completed": false
+        },
+        {
+          "description": "Shadow a senior team member in an upcoming client meeting",
+          "completed": false
+        }
+      ],
+      "goals": [
+        {
+          "title": "Improve client communication",
+          "description": "Enhance skills for delivering clear and concise updates",
+          "achievedPercent": 20
+        },
+        {
+          "title": "Gain confidence in client interactions",
+          "description": "Increase comfort level in client-facing scenarios",
+          "achievedPercent": 10
+        }
+      ]
+    }
+  ]
+}
